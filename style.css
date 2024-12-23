@@ -1,0 +1,58 @@
+.two-box{
+    display:flex;
+    justify-content: space-evenly;
+
+}
+
+.btn-danger{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 350px;
+    margin-bottom: 250px;
+}
+
+.btn-dark{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 475px;
+    margin-bottom: 250px;
+}
+
+.bottom{
+    display: flex;
+    margin-left: 850px;
+}
+
+.grid-container{
+    display:grid;
+    grid-template-rows: 300px 300px;
+    grid-template-columns: 300px 300px 300px;
+    gap: 30px;
+    
+    
+}
+
+.i{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ii{
+    display:flex;
+    justify-content: center;
+    
+
+}
+
+.c{
+    display:flex;
+    justify-content: center;
+    margin-top: 15%;
+
+}
+
+.a{
+    display:flex;
+    justify-content: center;
+}
